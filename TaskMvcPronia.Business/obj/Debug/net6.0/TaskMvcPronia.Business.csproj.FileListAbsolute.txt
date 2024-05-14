@@ -1,0 +1,35 @@
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Business.deps.json
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Business.dll
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Business.pdb
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Core.dll
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Data.dll
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Data.pdb
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Core.pdb
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.AssemblyInfo.cs
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcP.F5D5D4BF.Up2Date
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.dll
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\refint\TaskMvcPronia.Business.dll
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.pdb
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\ref\TaskMvcPronia.Business.dll
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Business.deps.json
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Business.dll
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Business.pdb
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Core.dll
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Data.dll
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Data.pdb
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\bin\Debug\net6.0\TaskMvcPronia.Core.pdb
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.AssemblyInfo.cs
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.sourcelink.json
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcP.F5D5D4BF.Up2Date
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.dll
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\refint\TaskMvcPronia.Business.dll
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\TaskMvcPronia.Business.pdb
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Business\obj\Debug\net6.0\ref\TaskMvcPronia.Business.dll

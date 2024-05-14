@@ -1,0 +1,25 @@
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Core\bin\Debug\net6.0\TaskMvcPronia.Core.deps.json
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Core\bin\Debug\net6.0\TaskMvcPronia.Core.dll
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Core\bin\Debug\net6.0\TaskMvcPronia.Core.pdb
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.dll
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\refint\TaskMvcPronia.Core.dll
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.pdb
+C:\Users\user\source\repos\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\ref\TaskMvcPronia.Core.dll
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\bin\Debug\net6.0\TaskMvcPronia.Core.deps.json
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\bin\Debug\net6.0\TaskMvcPronia.Core.dll
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\bin\Debug\net6.0\TaskMvcPronia.Core.pdb
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.sourcelink.json
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.dll
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\refint\TaskMvcPronia.Core.dll
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\TaskMvcPronia.Core.pdb
+C:\Users\user\Desktop\Code academy\TaskMvcPronia\TaskMvcPronia.Core\obj\Debug\net6.0\ref\TaskMvcPronia.Core.dll
