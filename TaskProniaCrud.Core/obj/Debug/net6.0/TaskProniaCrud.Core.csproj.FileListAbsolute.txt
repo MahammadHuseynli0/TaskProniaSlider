@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Core\bin\Debug\net6.0\TaskProniaCrud.Core.deps.json
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Core\bin\Debug\net6.0\TaskProniaCrud.Core.dll
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Core\bin\Debug\net6.0\TaskProniaCrud.Core.pdb
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Core\obj\Debug\net6.0\TaskProniaCrud.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Core\obj\Debug\net6.0\TaskProniaCrud.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Core\obj\Debug\net6.0\TaskProniaCrud.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Core\obj\Debug\net6.0\TaskProniaCrud.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Core\obj\Debug\net6.0\TaskProniaCrud.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Core\obj\Debug\net6.0\TaskProniaCrud.Core.dll
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Core\obj\Debug\net6.0\refint\TaskProniaCrud.Core.dll
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Core\obj\Debug\net6.0\TaskProniaCrud.Core.pdb
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Core\obj\Debug\net6.0\ref\TaskProniaCrud.Core.dll

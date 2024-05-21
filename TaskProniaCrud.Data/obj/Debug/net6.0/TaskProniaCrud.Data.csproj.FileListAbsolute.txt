@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\bin\Debug\net6.0\TaskProniaCrud.Data.deps.json
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\bin\Debug\net6.0\TaskProniaCrud.Data.runtimeconfig.json
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\bin\Debug\net6.0\TaskProniaCrud.Data.dll
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\bin\Debug\net6.0\TaskProniaCrud.Data.pdb
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\bin\Debug\net6.0\TaskProniaCrud.Core.dll
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\bin\Debug\net6.0\TaskProniaCrud.Core.pdb
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\obj\Debug\net6.0\TaskProniaCrud.Data.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\obj\Debug\net6.0\TaskProniaCrud.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\obj\Debug\net6.0\TaskProniaCrud.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\obj\Debug\net6.0\TaskProniaCrud.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\obj\Debug\net6.0\TaskProniaCrud.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\obj\Debug\net6.0\TaskPron.9C429B7E.Up2Date
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\obj\Debug\net6.0\TaskProniaCrud.Data.dll
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\obj\Debug\net6.0\refint\TaskProniaCrud.Data.dll
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\obj\Debug\net6.0\TaskProniaCrud.Data.pdb
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\obj\Debug\net6.0\TaskProniaCrud.Data.genruntimeconfig.cache
+C:\Users\user\source\repos\TaskProniaCrud\TaskProniaCrud.Data\obj\Debug\net6.0\ref\TaskProniaCrud.Data.dll

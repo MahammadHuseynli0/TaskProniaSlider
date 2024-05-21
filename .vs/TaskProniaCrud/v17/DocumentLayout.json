@@ -1,0 +1,1077 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\slider\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\slider\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\feature\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\feature\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\exceptions\\filenullreferenceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\exceptions\\filenullreferenceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\services\\abstracts\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\services\\abstracts\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\extension\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\extension\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\taskproniacrud.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\taskproniacrud.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|solutionrelative:taskproniacrud.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.data\\repositoryconcretes\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|solutionrelative:taskproniacrud.data\\repositoryconcretes\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.core\\repositoryabstarcts\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|solutionrelative:taskproniacrud.core\\repositoryabstarcts\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\services\\concretes\\featureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\services\\concretes\\featureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|solutionrelative:taskproniacrud.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\services\\abstracts\\ifeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\services\\abstracts\\ifeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|solutionrelative:taskproniacrud.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\feature\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\feature\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\feature\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\feature\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\services\\abstracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\services\\abstracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\exceptions\\imagesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\exceptions\\imagesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\exceptions\\imagecontextexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\exceptions\\imagecontextexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.data\\repositoryconcretes\\categoryrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|solutionrelative:taskproniacrud.data\\repositoryconcretes\\categoryrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\services\\abstracts\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\services\\abstracts\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\services\\concretes\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\services\\concretes\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.core\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|solutionrelative:taskproniacrud.core\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.core\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|solutionrelative:taskproniacrud.core\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.core\\repositoryabstarcts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|solutionrelative:taskproniacrud.core\\repositoryabstarcts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.core\\repositoryabstarcts\\ifeaturerepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|solutionrelative:taskproniacrud.core\\repositoryabstarcts\\ifeaturerepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.core\\repositoryabstarcts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|solutionrelative:taskproniacrud.core\\repositoryabstarcts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.data\\repositoryconcretes\\featurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|solutionrelative:taskproniacrud.data\\repositoryconcretes\\featurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.core\\repositoryabstarcts\\iproductrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|solutionrelative:taskproniacrud.core\\repositoryabstarcts\\iproductrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|solutionrelative:taskproniacrud.data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.business\\exceptions\\duplicateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15333A5-720B-4E86-9D1F-EEB038CFDB91}|TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj|solutionrelative:taskproniacrud.business\\exceptions\\duplicateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.data\\repositoryconcretes\\tagrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|solutionrelative:taskproniacrud.data\\repositoryconcretes\\tagrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|solutionrelative:taskproniacrud.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.core\\repositoryabstarcts\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|solutionrelative:taskproniacrud.core\\repositoryabstarcts\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F6907-E863-4957-A581-9687587D035B}|TaskProniaCrud.Core\\TaskProniaCrud.Core.csproj|solutionrelative:taskproniacrud.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE2B47E1-5DDD-4FD6-B655-06491CEB8C07}|TaskProniaCrud\\TaskProniaCrud.csproj|solutionrelative:taskproniacrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.data\\migrations\\20240516193000_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|solutionrelative:taskproniacrud.data\\migrations\\20240516193000_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|c:\\users\\user\\source\\repos\\taskproniacrud\\taskproniacrud.data\\migrations\\20240520175812_createslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D57BC1-0BEF-4E0B-8FE9-19E317F2DFAB}|TaskProniaCrud.Data\\TaskProniaCrud.Data.csproj|solutionrelative:taskproniacrud.data\\migrations\\20240520175812_createslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T20:06:08.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:05:04.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:39:58.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:55:53.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:04:58.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeatureController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:15:18.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\appsettings.json",
+              "RelativeToolTip": "TaskProniaCrud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T19:21:12.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "TaskProniaCrud\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:03:37.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T20:06:06.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T20:07:43.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T10:33:39.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T10:33:46.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Services\\Concretes\\SliderService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Services\\Concretes\\SliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:06:54.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T13:58:16.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T13:57:52.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAH4BAAAAAAAAAAAcwK8BAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T13:57:11.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Update.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Update.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T17:49:43.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Extension\\Helper.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Extension\\Helper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Extension\\Helper.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Extension\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:09:36.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Exceptions\\FileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Exceptions\\FileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:10:16.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileNullReferenceException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Exceptions\\FileNullReferenceException.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Exceptions\\FileNullReferenceException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Exceptions\\FileNullReferenceException.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Exceptions\\FileNullReferenceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:11:57.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Services\\Abstracts\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Services\\Abstracts\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:06:07.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\RepositoryConcretes\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Data\\RepositoryConcretes\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\RepositoryConcretes\\SliderRepository.cs",
+              "RelativeToolTip": "TaskProniaCrud.Data\\RepositoryConcretes\\SliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:59:49.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240520175812_CreateSlider.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\Migrations\\20240520175812_CreateSlider.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Data\\Migrations\\20240520175812_CreateSlider.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\Migrations\\20240520175812_CreateSlider.cs",
+              "RelativeToolTip": "TaskProniaCrud.Data\\Migrations\\20240520175812_CreateSlider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:58:13.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\RepositoryAbstarcts\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Core\\RepositoryAbstarcts\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\RepositoryAbstarcts\\ISliderRepository.cs",
+              "RelativeToolTip": "TaskProniaCrud.Core\\RepositoryAbstarcts\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:55:47.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TaskProniaCrud.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj",
+              "RelativeToolTip": "TaskProniaCrud.Business\\TaskProniaCrud.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T22:15:22.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:50:56.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:53:26.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:52:42.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "TaskProniaCrud.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:04:35.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:40:35.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T15:05:35.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Concretes\\FeatureService.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Services\\Concretes\\FeatureService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Concretes\\FeatureService.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Services\\Concretes\\FeatureService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:51:09.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "TaskProniaCrud.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA6wDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:08:53.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IFeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Abstracts\\IFeatureService.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Services\\Abstracts\\IFeatureService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Abstracts\\IFeatureService.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Services\\Abstracts\\IFeatureService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:26:21.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\Models\\Category.cs",
+              "RelativeToolTip": "TaskProniaCrud.Core\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:40:42.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Program.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Program.cs",
+              "RelativeToolTip": "TaskProniaCrud\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwDEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:12:25.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Delete.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Feature\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:59:54.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Abstracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Services\\Abstracts\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Abstracts\\ICategoryService.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Services\\Abstracts\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:25:49.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Services\\Abstracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Services\\Abstracts\\IProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:37:05.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Concretes\\CategoryService.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Services\\Concretes\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Concretes\\CategoryService.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Services\\Concretes\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:49:43.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ImageSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Exceptions\\ImageSizeException.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Exceptions\\ImageSizeException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Exceptions\\ImageSizeException.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Exceptions\\ImageSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:15:04.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ImageContextException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Exceptions\\ImageContextException.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Exceptions\\ImageContextException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Exceptions\\ImageContextException.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Exceptions\\ImageContextException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:14:16.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAADEBAAAAAAAAAAAcwFYBAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:06:22.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CategoryRepositroy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\RepositoryConcretes\\CategoryRepositroy.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Data\\RepositoryConcretes\\CategoryRepositroy.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\RepositoryConcretes\\CategoryRepositroy.cs",
+              "RelativeToolTip": "TaskProniaCrud.Data\\RepositoryConcretes\\CategoryRepositroy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:31:51.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:10:24.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "TaskProniaCrud\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-19T13:44:28.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Abstracts\\ITagService.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Services\\Abstracts\\ITagService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Abstracts\\ITagService.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Services\\Abstracts\\ITagService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:27:35.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:45:21.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Concretes\\TagService.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Services\\Concretes\\TagService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Services\\Concretes\\TagService.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Services\\Concretes\\TagService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:52:46.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Core\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\Models\\Tag.cs",
+              "RelativeToolTip": "TaskProniaCrud.Core\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:53:13.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\Models\\Feature.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Core\\Models\\Feature.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\Models\\Feature.cs",
+              "RelativeToolTip": "TaskProniaCrud.Core\\Models\\Feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:50:09.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\RepositoryAbstarcts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Core\\RepositoryAbstarcts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\RepositoryAbstarcts\\IGenericRepository.cs",
+              "RelativeToolTip": "TaskProniaCrud.Core\\RepositoryAbstarcts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:51:50.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IFeatureRepositroy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\RepositoryAbstarcts\\IFeatureRepositroy.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Core\\RepositoryAbstarcts\\IFeatureRepositroy.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\RepositoryAbstarcts\\IFeatureRepositroy.cs",
+              "RelativeToolTip": "TaskProniaCrud.Core\\RepositoryAbstarcts\\IFeatureRepositroy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:00:13.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\RepositoryAbstarcts\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Core\\RepositoryAbstarcts\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\RepositoryAbstarcts\\ICategoryRepository.cs",
+              "RelativeToolTip": "TaskProniaCrud.Core\\RepositoryAbstarcts\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:02:36.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FeatureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\RepositoryConcretes\\FeatureRepository.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Data\\RepositoryConcretes\\FeatureRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\RepositoryConcretes\\FeatureRepository.cs",
+              "RelativeToolTip": "TaskProniaCrud.Data\\RepositoryConcretes\\FeatureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:27:17.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T01:11:53.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IProductRepositroy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\RepositoryAbstarcts\\IProductRepositroy.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Core\\RepositoryAbstarcts\\IProductRepositroy.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\RepositoryAbstarcts\\IProductRepositroy.cs",
+              "RelativeToolTip": "TaskProniaCrud.Core\\RepositoryAbstarcts\\IProductRepositroy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:07:09.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeToolTip": "TaskProniaCrud.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:21:52.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DuplicateException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Exceptions\\DuplicateException.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Business\\Exceptions\\DuplicateException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Business\\Exceptions\\DuplicateException.cs",
+              "RelativeToolTip": "TaskProniaCrud.Business\\Exceptions\\DuplicateException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:16:27.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TagRepositroy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\RepositoryConcretes\\TagRepositroy.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Data\\RepositoryConcretes\\TagRepositroy.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\RepositoryConcretes\\TagRepositroy.cs",
+              "RelativeToolTip": "TaskProniaCrud.Data\\RepositoryConcretes\\TagRepositroy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:29:00.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\Models\\Product.cs",
+              "RelativeToolTip": "TaskProniaCrud.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:40:02.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\RepositoryAbstarcts\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Core\\RepositoryAbstarcts\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\RepositoryAbstarcts\\ITagRepository.cs",
+              "RelativeToolTip": "TaskProniaCrud.Core\\RepositoryAbstarcts\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:59:39.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20240516193000_initial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\Migrations\\20240516193000_initial.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Data\\Migrations\\20240516193000_initial.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Data\\Migrations\\20240516193000_initial.cs",
+              "RelativeToolTip": "TaskProniaCrud.Data\\Migrations\\20240516193000_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:30:00.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "TaskProniaCrud.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:39:41.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskProniaCrud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFoDAAAAAAAAAAAAAPkEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:29:30.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TaskProniaCrud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskProniaCrud\\TaskProniaCrud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TaskProniaCrud\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:09:29.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
